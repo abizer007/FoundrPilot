@@ -1,9 +1,0 @@
-# Frontend
-cd client
-npm init -y
-npm install react react-dom @reduxjs/toolkit react-router-dom
-
-# Backend
-cd ../server
-npm init -y
-npm install express mongoose cors dotenv
